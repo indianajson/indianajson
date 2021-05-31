@@ -1,4 +1,4 @@
-<p align=center><img src="json_x5.png" width=500>
+<!--<p align=center><img src="json_x5.png" width=500>-->
 <!--<h3 align=center><code>Well, here I am back in the rainforest.</code></h3></p>
 <img src="rainforest.gif">-->
 <h3 align=center><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
