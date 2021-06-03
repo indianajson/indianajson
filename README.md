@@ -1,8 +1,8 @@
 <!--<p align=center><img src="json_x5.png" width=500>-->
 <!--<h3 align=center><code>Well, here I am back in the rainforest.</code></h3></p>
 <img src="rainforest.gif">-->
-<h3 align=center><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
- <p><a target="_blank" href="https://github.com/libertalialtd/trusty-resolvers#readme"></a><br>
+<h3 align=center><img src='animated.gif' width="450px"/><br><br><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
+ <p><a target="_blank" href="https://github.com/libertalialtd/trusty-resolvers#readme"></a>
 
    > <a href="https://github.com/libertalialtd/can-i-take-over-dns#readme"><h3><code>Can I Take Over DNS?</code></h3></a><i>A list of DNS providers and how to claim (sub)domains via missing hosted zones.</i>
    </p>
