@@ -9,7 +9,7 @@
 
 [<!--<img src='https://raw.githubusercontent.com/indianajson/trusty-resolvers/master/cave.jpg' width="450px"/>--><h3> <img src="arrow.svg" width="30px" height="30px" />  `Indy's List of Trusty Resolvers` ](https://github.com/indianajson/trusty-resolvers#readme)</h3>***You need trustworthy resolvers when traveling the net, here's the list that'll keep you out of trouble.*** 
  
-[<!--<img src='https://raw.githubusercontent.com/indianajson/trusty-resolvers/master/cave.jpg' width="450px"/>--><h3> <img src="arrow.svg" width="30px" height="30px" />  `Cloudflare's Master Namserver List` ]( https://github.com/indianajson/cloudflare-nameservers/blob/main/README.md#readme)</h3>***The good old boys at Cloudflare are running way more nameservers than you thought.*** 
+[<!--<img src='https://raw.githubusercontent.com/indianajson/trusty-resolvers/master/cave.jpg' width="450px"/>--><h3> <img src="arrow.svg" width="30px" height="30px" />  `Cloudflare's Master Nameserver List` ]( https://github.com/indianajson/cloudflare-nameservers/blob/main/README.md#readme)</h3>***The good old boys at Cloudflare are running way more nameservers than you thought.*** 
  
 
  
