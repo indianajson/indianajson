@@ -1,7 +1,11 @@
 <!--<p align=center><img src="json_x5.png" width=500>-->
 <!--<h3 align=center><code>Well, here I am back in the rainforest.</code></h3></p>
 <img src="rainforest.gif">-->
-[<h3 align=center><img src='animated.gif' width="450px"/>](https://youtu.be/ClwIj3x24Q4?t=29)<br><br><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
+[<h3 align=center><img src='animated.gif' width="450px"/>](https://youtu.be/ClwIj3x24Q4?t=29)<br>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/indianajson.svg?style=social&label=Follow%20%40indianajson)](https://twitter.com/indianajson)&nbsp;
+[![HackerOne](https://img.shields.io/static/v1?label=HackerOne%20&message=@faberge&color=e13e8a&logo=hackerone)](https://hackerone.com/faberge)&nbsp;
+[![BugCrowd](https://img.shields.io/static/v1?label=BugCrowd%20&message=@faberge&color=F26822&logo=bugcrowd)](https://bugcrowd.com/faberge)&nbsp;
+<br><br><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
 
  [<h3> <img src="arrow.svg" width="30px" height="30px" /> `Can I Take Over DNS?`](https://github.com/indianajson/can-i-take-over-dns#readme) </h3>   ***A list of DNS providers and how to claim (sub)domains via missing hosted zones.***  
 
