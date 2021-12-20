@@ -3,7 +3,7 @@
 <img src="rainforest.gif">-->
 [<h3 align=center><img src='animated.gif' width="450px"/>](https://youtu.be/ClwIj3x24Q4?t=29)<br>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/indianajson.svg?style=social&label=Follow%20%40indianajson)](https://twitter.com/indianajson)&nbsp;
-[![HackerOne](https://img.shields.io/static/v1?label=HackerOne%20&message=@faberge&color=e13e8a&logo=hackerone)](https://hackerone.com/faberge)&nbsp;
+[![HackerOne](https://img.shields.io/static/v1?label=HackerOne%20&message=@indianajson&color=e13e8a&logo=hackerone)](https://hackerone.com/indianajson)&nbsp;
 [![BugCrowd](https://img.shields.io/static/v1?label=BugCrowd%20&message=@indianajson&color=F26822&logo=bugcrowd)](https://bugcrowd.com/indianajson)&nbsp;
 [![Intigriti](https://img.shields.io/static/v1?label=Intigriti%20&message=@indianajson&color=161A36&logo=intigriti)](https://app.intigriti.com/researcher/profile/indianajson)&nbsp;
 <br><br><code>Perhaps you'd be interested in some of my recent adventures?</code></h3></p>
