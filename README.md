@@ -1,7 +1,9 @@
 <!--<p align=center><img src="json_x5.png" width=500>-->
 <!--<h3 align=center><code>Well, here I am back in the rainforest.</code></h3></p>
 <img src="rainforest.gif">-->
-[<h3 align=center><img src='animated.gif' width="450px"/>](https://youtu.be/ClwIj3x24Q4?t=29)<br>
+<p align="center"><a href="https://youtu.be/ClwIj3x24Q4?t=29"><img src='animated.gif' width="450px"/></a></p>
+<h3 align=center>
+ 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/indianajson.svg?style=social&label=Follow%20%40indianajson)](https://twitter.com/indianajson)&nbsp;
 [![HackerOne](https://img.shields.io/static/v1?label=HackerOne%20&message=@indianajson&color=e13e8a&logo=hackerone)](https://hackerone.com/indianajson)&nbsp;</h3><h3>
  <img src="arrow.svg" width="30px" height="30px" /> <a href="https://github.com/indianajson/can-i-take-over-dns#readme">`Can I Take Over DNS?` &nbsp; <sub>![Stars](https://img.shields.io/github/stars/indianajson/can-i-take-over-dns?label=Stars&style=social)</sub> </h3>   ***A list of DNS providers and how to claim (sub)domains via missing hosted zones.*** <h3>
